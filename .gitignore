@@ -105,3 +105,6 @@ dist
 
 # Ignoring .DS_Store file 
 .DS_Store
+
+# Ignoring ._FILE files 
+._
